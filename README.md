@@ -2,6 +2,8 @@
 
 A todo app in Flutter
 
+This app save new TODO in a file with JSON stored on the device.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
